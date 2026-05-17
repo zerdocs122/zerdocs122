@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, я Михаил 👋
 
-<!--
-**zerdocs122/zerdocs122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend-разработчик с опытом в нефтегазовой отрасли. 
+В геофизике начал писать скрипты на Python для автоматизации 
+обработки данных — постепенно это переросло в осознанный переход 
+в разработку. Реализовал несколько backend-проектов: REST API, 
+сервисы с асинхронной интеграцией внешних API и полным CI/CD.
 
-Here are some ideas to get you started:
+## 🛠 Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** Python · Django · DRF · Flask · FastAPI (изучаю)  
+**Базы данных:** PostgreSQL · SQLite · SQL  
+**Инфраструктура:** Docker · Docker Compose · Nginx · GitHub Actions  
+**Инструменты:** Git · Postman · CI/CD  
+**AI-инструменты:** Claude · GitHub Copilot · Cursor  
+
+## 📫 Контакты
+
+Telegram: https://t.me/Kidik4  
+
+## 💼 Статус
+
+Open to work — рассматриваю предложения по backend-разработке на Python
